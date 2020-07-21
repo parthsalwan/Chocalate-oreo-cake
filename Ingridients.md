@@ -1,0 +1,6 @@
+A grinder,
+A spoon, 
+A Bowl,
+A pack of Oreo,
+Some milk,
+A pack of ENO,
